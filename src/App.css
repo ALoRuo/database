@@ -1,0 +1,18 @@
+body{
+  background: bisque;
+}
+.App {
+  text-align: center;
+
+}
+.addData{
+  width:60%;
+  background: #fff;
+  box-shadow: 0 2px 3px #867e7e;
+  padding: 15px;
+  margin:15px auto
+ }
+.red{
+  background: dodgerblue;
+}
+
